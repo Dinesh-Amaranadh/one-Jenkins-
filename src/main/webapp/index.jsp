@@ -12,7 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
 <p> Hi this is Dinesh, here i'm integrating the weebhooks to jenkins</p>
 <p>hi all</p>
-	<p> Hi all I sucessfully integrated tomcat with jenkins</p>
+	
 	
 	
 	
